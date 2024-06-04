@@ -4,7 +4,7 @@ URL : https://ieeexplore.ieee.org/abstract/document/9041907
 
 ## 概要
 2019年に発表された、Geに8%のSnを混ぜた基板上に、CVD法でNi、Pt、Tiを蒸着して生成されるスタノジャーマナイド（Stanogermanide）に関する論文。
-実験の結果、NiGeSnが最も低抵抗で、400℃で形成された。また、PtGeSnは熱安定性を示した。また、Tiは500℃以下では反応が起こらなかった。
+実験の結果、NiGeSnが最も低抵抗で、400℃で形成された。また、PtGeSnは熱安定性を示した。また、Tiは500℃以下では反応が起こらなかった。  
 ※ちなみに、Stanogermanideの「Stano」は**エスぺエランド語でスズ**である。
 
 ## イントロ
