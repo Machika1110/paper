@@ -18,11 +18,11 @@ URL : https://www.sciencedirect.com/science/article/pii/S0167931706004825
 NiとアモルファスSiとGe(a-Si, a-Ge)をSi[100]面に蒸着した。
 
 ### Ni-Si system
-a-SiにNi50nmを250℃のアニーリングで蒸着した。Ni2SiとNiSiが形成された。**Ni2SiはNiSiの出現前にNi層を完全に消費していた。**NiSiはNi2Ge層を消費しながら成長した。Ni31Si12らしきピークがXRDで観察された。  
+a-SiにNi50nmを250℃のアニーリングで蒸着した。Ni2SiとNiSiが形成された。**Ni2SiはNiSiの出現前にNi層を完全に消費していた。** NiSiはNi2Ge層を消費しながら成長した。Ni31Si12らしきピークがXRDで観察された。  
 Fig. 2を見ると、最初の1000minでNi層が急激に消費されNi2Siが成長している。その後、Ni2Siが徐々に減り、NiSiが同じペースで増えている。  
 
 ### Ni-Ge system
-Ni-Siと同様のアニーリングを実行。**2種のジャーマナイドがNiの存在下で同時に成長した。**また、Niが完全に消費されると、NiGeの成長が速くなり、Ni5Ge3を消費した。a-Geを多結晶Geに変えても同様の結果であった。
+Ni-Siと同様のアニーリングを実行。**2種のジャーマナイドがNiの存在下で同時に成長した。** また、Niが完全に消費されると、NiGeの成長が速くなり、Ni5Ge3を消費した。a-Geを多結晶Geに変えても同様の結果であった。
 
 ### Ni-SiとNi-Geの比較
 
